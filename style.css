@@ -1,0 +1,18 @@
+body {
+    background-color: #2e2e2e;
+}
+
+canvas {
+padding-left: 0;
+padding-right: 0;
+margin-left: auto;
+margin-right: auto;
+display: block;
+width: 800px;
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
