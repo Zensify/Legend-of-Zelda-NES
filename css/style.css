@@ -1,0 +1,17 @@
+body {
+    background-color: #2e2e2e;
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid grey;
+}
+
+img {
+    display: none;
+}
+
+h1 {
+    color: white;
+    font-size: 25px
+}
